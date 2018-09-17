@@ -1,2 +1,2 @@
-# Personal-Repository
+# Groceries-Repository
 Ideas and Reminders
